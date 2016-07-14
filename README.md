@@ -5,7 +5,7 @@ A boilerplate project that uses react and webpack.
 
 If you haven't globally installed webpack and webpack-dev-server:
 ```bash
-npm install webpack
+npm install webpack -g
 npm install webpack-dev-server -g
 ```
 Clone the repository and install the dependencies.
