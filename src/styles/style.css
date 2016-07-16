@@ -1,6 +1,10 @@
 h1 {
-  color:orange;
+  color:orange !important;
 }
 body {
-  background-color:gray;
+  background-color:gray !important;
 }
+#App {
+  margin: 10px;
+}
+

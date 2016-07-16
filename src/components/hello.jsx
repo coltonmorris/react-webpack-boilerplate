@@ -7,6 +7,10 @@ export default class Hello extends React.Component {
     this.state = {name: props.name};
   }
   render() {
-    return <h1>Hello {this.state.name}</h1>
+    return (
+      <div>
+        <h1>Hello {this.state.name}</h1>
+      </div>
+    )
   }
 }
